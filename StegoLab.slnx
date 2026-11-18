@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="StegoCLI/StegoCLI.vcxproj" Id="0cfb96ee-ffdf-44f3-92bf-b622c2630ecb" />
+  <Project Path="StegoEngine/StegoEngine.vcxproj" Id="97f03f74-0cbb-4753-a7e5-87f5ffa4a7ce" />
+  <Project Path="StegoLab.vcxproj" Id="77f77ea4-eac9-40cd-8c8e-62843a52110e" />
+</Solution>
