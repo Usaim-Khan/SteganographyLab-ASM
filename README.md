@@ -345,6 +345,6 @@ AI assistance (Claude, by Anthropic) was used for drafting and debugging code an
 
 <div align="center">
 
-Built by [Usaim Khan](https://github.com/Usaim-Khan) and Memoona · FAST NUCES Karachi
+Built by [Usaim Khan](https://github.com/Usaim-Khan) and [Memoona](https://github.com/Memoona-237) · FAST NUCES Karachi
 
 </div>
