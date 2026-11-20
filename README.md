@@ -338,8 +338,7 @@ A few deliberate choices worth calling out:
 | **Muhammad Usaim Khan** (Group Leader) | 25K-0871 | BMP loader and validation, LSB and packet format, CRC-32, Compare with x87, C++ to Irvine32 interface |
 | **Memoona** | 25K-0552 | File routines, capacity, log, console screens, FLTK panels, test data |
 
-**Course:** EL-2003 COAL Lab, Fall 2026 · **Section:** 3J · **Group:** BCS-3J-04 · **Instructor:** Abdullah Shaikh
-
+**Course:** EL-2003 COAL Lab, Fall 2026 ·
 AI assistance (Claude, by Anthropic) was used for drafting and debugging code and documentation, in line with the course policy. Both members reviewed and tested everything.
 
 ---
